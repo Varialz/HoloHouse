@@ -4,8 +4,10 @@ A responsive storefront concept for Holo House Collectors Club — a Chicago-bas
 
 ## What's here
 - `index.html` — the full storefront, self-contained in one file and ready for GitHub Pages.
+- `assets/brand/holo-house-logo.png` — the supplied Holo House Collectors Club logo used as the visual anchor.
 - `assets/cards/` — locally stored PSA 10 reference images used in the storefront mockup.
-- Responsive collector-clubhouse visual system with original card artwork.
+- Premium gothic editorial system pairing Cormorant Garamond and UnifrakturCook with the existing Manrope utility type.
+- GSAP and ScrollTrigger motion for the opening sequence, scroll reveals, card parallax, the grail feature, counters, and marquee.
 - Working inventory filters, add-to-bag feedback, mobile navigation, search dialog, trade-in form, and email signup demo.
 - Reduced-motion support, keyboard focus states, semantic landmarks, and accessible dialog controls.
 
