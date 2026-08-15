@@ -4,6 +4,7 @@ A responsive storefront concept for Holo House Collectors Club — a Chicago-bas
 
 ## What's here
 - `index.html` — the full storefront, self-contained in one file and ready for GitHub Pages.
+- `assets/cards/` — locally stored PSA 10 reference images used in the storefront mockup.
 - Responsive collector-clubhouse visual system with original card artwork.
 - Working inventory filters, add-to-bag feedback, mobile navigation, search dialog, trade-in form, and email signup demo.
 - Reduced-motion support, keyboard focus states, semantic landmarks, and accessible dialog controls.
@@ -25,4 +26,6 @@ If you don't want to use the command line:
 ## Notes before going live
 - Product names, prices, inventory counts, events, stats, contact details, and testimonial copy are placeholders. Replace them with verified shop data before launch.
 - The demo forms intentionally do not transmit data. Connect them to the shop's commerce, email, or form backend before launch.
-- Card artwork and set names are original/invented. Keep the footer disclaimer if the shop deals in licensed product.
+- Pokémon and One Piece slab images are reference assets sourced from public online listings for this mockup. They are not represented as Holo House inventory.
+- Current reference sources: PSA research, eBay (Pikachu and Luffy), GameStop (Charizard ex and Shanks), and HPW Cards (Luffy image). Re-check pricing, availability, image permissions, and certification details before any public or commercial launch.
+- Keep the expanded footer disclaimer while the mockup uses third-party card imagery and trademarks.
