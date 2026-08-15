@@ -1,9 +1,12 @@
 # Holo House Collectors Club
 
-Landing page mockup for Holo House Collectors Club — a Chicago-based Pokémon TCG buy/sell/trade shop (Buy | Sell | Trade).
+A responsive storefront concept for Holo House Collectors Club — a Chicago-based trading-card buy/sell/trade shop.
 
 ## What's here
-- `index.html` — the full landing page, self-contained (HTML/CSS/JS in one file, Google Fonts loaded via CDN). This is set up to work directly as a GitHub Pages site.
+- `index.html` — the full storefront, self-contained in one file and ready for GitHub Pages.
+- Responsive collector-clubhouse visual system with original card artwork.
+- Working inventory filters, add-to-bag feedback, mobile navigation, search dialog, trade-in form, and email signup demo.
+- Reduced-motion support, keyboard focus states, semantic landmarks, and accessible dialog controls.
 
 ## Publish with GitHub Pages
 1. Push this repo to GitHub (or upload the files via the web UI — see below).
@@ -20,5 +23,6 @@ If you don't want to use the command line:
 4. Then follow the Pages steps above.
 
 ## Notes before going live
-- All product names, prices, "sets," stats, and testimonial quotes are placeholder content — swap in real inventory and copy before sharing publicly.
-- The card art and set names are original/invented — not affiliated with or depicting Pokémon, Nintendo, or The Pokémon Company. Keep the footer disclaimer if the shop deals in licensed product.
+- Product names, prices, inventory counts, events, stats, contact details, and testimonial copy are placeholders. Replace them with verified shop data before launch.
+- The demo forms intentionally do not transmit data. Connect them to the shop's commerce, email, or form backend before launch.
+- Card artwork and set names are original/invented. Keep the footer disclaimer if the shop deals in licensed product.
